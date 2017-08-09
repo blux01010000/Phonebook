@@ -11,7 +11,7 @@ public class dataContactActivity extends AppCompatActivity  {
 
     TextView tvName, tvFecha, tvTelefono, tvEmail, tvDescripcionContacto;
     Button regresar;
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
