@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phonebook</string>
+    <string name="nombreCompleto">Nombre Completo</string>
+    <string name="fechaNac">Fecha de Nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descrContacto">Descripción de contacto</string>
+    <string name="next">Siguiente</string>
+    <string name="confirmar_datos">Confirmar datos</string>
+    <string name="editar_datos">Editar datos</string>
+</resources>
